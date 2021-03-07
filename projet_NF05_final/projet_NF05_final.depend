@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1574981805 source:c:\users\utilisateur\desktop\projet nfo5\projet_nf05_final\main.c
+	"simplex.h"
+
+1574977530 c:\users\utilisateur\desktop\projet nfo5\projet_nf05_final\simplex.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
